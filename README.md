@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, we are Launchbridge</h1>
+<h1 align="center">Hi 👋, we are Wagmipad</h1>
 <h3 align="center">A team of professional in blockchain and finance sector from all over the world</h3>
 
-- 🔭 We are currently working on **Launchbridge Net**
+- 🔭 We are currently working on **Wagmipad Platform**
 
-- 👯 We are looking to collaborate on **Launchbridge using blockchain**
+- 👯 We are looking to collaborate on **Wagmipad using blockchain**
 
 - 💬 Ask us about **anything**
 
-- 📫 How to reach us **info@launchbridge.org**
+- 📫 How to reach us **info@wagmipad.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
